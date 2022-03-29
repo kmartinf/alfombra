@@ -1,9 +1,13 @@
 rhino.inside/
 node_modules/
 
+[Rr]hinoInside/
 
+[Ff]bx/
+[Oo]bj/
+[Ss]tardardAsset/
 
-
+[Rr]ealistic/
 
 #Library/
 #Temp/
@@ -12,7 +16,6 @@ node_modules/
 #Builds/
 [Ll]ibrary/
 [Tt]emp/
-[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ww]eb/
