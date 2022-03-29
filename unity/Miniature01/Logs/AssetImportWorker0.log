@@ -6406,3 +6406,140 @@ Received Import Request.
 Start importing Assets/Fbx/Ground Interior.png using Guid(563a99b55be044525b0189b033b8ceea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7cdefc457910df3f4bc63365d57f5e') in 0.028036 seconds 
   Import took 0.033990 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1748.511333 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Bl_Wt.tif
+  artifactKey: Guid(206ffad10bf50804bb2014ef8a88fec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Bl_Wt.tif using Guid(206ffad10bf50804bb2014ef8a88fec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982ef89705b8d412bc0cd40d0675e7d4') in 0.047933 seconds 
+  Import took 0.055851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_White.tif
+  artifactKey: Guid(8206ca6125d90b64492614330c36b9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_White.tif using Guid(8206ca6125d90b64492614330c36b9f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd6a512519975cbcb8817cc2fdcef86') in 0.015680 seconds 
+  Import took 0.020972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Orang.tif
+  artifactKey: Guid(c0c465aab97406f46939a3ce697703d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Orang.tif using Guid(c0c465aab97406f46939a3ce697703d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3745ca9a1111b717e48795a795a36ee8') in 0.013008 seconds 
+  Import took 0.017908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Grey.tif
+  artifactKey: Guid(e40d1526c0ff96f47b2c0f8d96d2a1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Grey.tif using Guid(e40d1526c0ff96f47b2c0f8d96d2a1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b2052f1f359d20860e264397e8d5444') in 0.013650 seconds 
+  Import took 0.019369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_White_m.tif
+  artifactKey: Guid(5de6edda0b5d2fe4f8252f04a8d3c5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_White_m.tif using Guid(5de6edda0b5d2fe4f8252f04a8d3c5a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82d1a7effc5068b0b3dfaec0c8ad855') in 0.026488 seconds 
+  Import took 0.033698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Orang_m.tif
+  artifactKey: Guid(dbab408671d3cac458f7e5e2ab2729cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Orang_m.tif using Guid(dbab408671d3cac458f7e5e2ab2729cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e816e0368da6b5120ef4766ee8d5dd89') in 0.040975 seconds 
+  Import took 0.050183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Tiger.tif
+  artifactKey: Guid(99a3c49cbee65684994418b4cc2b88e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Tiger.tif using Guid(99a3c49cbee65684994418b4cc2b88e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1b4c84839f3003a2e38f88ee4b5c3f') in 0.019829 seconds 
+  Import took 0.027901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Normal_m.tif
+  artifactKey: Guid(dd5abf2718b6b274183415124622b794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Normal_m.tif using Guid(dd5abf2718b6b274183415124622b794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a6ac57aee57ed15b7f241f76a84c23') in 0.035581 seconds 
+  Import took 0.040748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000821 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Bl_Wt_m.tif
+  artifactKey: Guid(06143c3fa1bb624489fba777e9abaae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Bl_Wt_m.tif using Guid(06143c3fa1bb624489fba777e9abaae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f683b297358ab17a314937cf435f782') in 0.021236 seconds 
+  Import took 0.027973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Black.tif
+  artifactKey: Guid(dac05b91cee088c488427e8aedfd3c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Black.tif using Guid(dac05b91cee088c488427e8aedfd3c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbda9769cee306e4c9509369c2cbb06d') in 0.015105 seconds 
+  Import took 0.020778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Black_m.tif
+  artifactKey: Guid(36e0891054e22dc4eb10f5b9db477407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Black_m.tif using Guid(36e0891054e22dc4eb10f5b9db477407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '769e3d4a843c019ff72676b3a48e140e') in 0.018796 seconds 
+  Import took 0.024974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Normal.tif
+  artifactKey: Guid(d0d48d280e0e94d40b01e90c1cdab212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Normal.tif using Guid(d0d48d280e0e94d40b01e90c1cdab212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40254a6223985c219729de413a71d94') in 0.021140 seconds 
+  Import took 0.025877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Wt_Bl.tif
+  artifactKey: Guid(cf2855d7fc654b44fa8c0acaa4fdcf0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Wt_Bl.tif using Guid(cf2855d7fc654b44fa8c0acaa4fdcf0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2719713d4e5c8a10e5b2b01715a2e7') in 0.036931 seconds 
+  Import took 0.042797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Wt_Bl_m.tif
+  artifactKey: Guid(675eae5e8c725994696e2be0eb008c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Wt_Bl_m.tif using Guid(675eae5e8c725994696e2be0eb008c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf04ab126b1e6ddc705fc8a46d9054e0') in 0.026014 seconds 
+  Import took 0.032658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000901 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Metall.tif
+  artifactKey: Guid(a032c906d5983924abd07bd6ed704e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Metall.tif using Guid(a032c906d5983924abd07bd6ed704e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e6bd2abf10cc40c33c7f0280b750b6') in 0.020776 seconds 
+  Import took 0.029066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Tiger_m.tif
+  artifactKey: Guid(ea2360b3e84375047a61db312da6b07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Tiger_m.tif using Guid(ea2360b3e84375047a61db312da6b07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad781f2890c6ada9dd2f14aa91152bd') in 0.034785 seconds 
+  Import took 0.040935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Grey_m.tif
+  artifactKey: Guid(c851a2ffdef787d488f7b12f12b6825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CatsTemplate/Domestic Animals/Cats/Cat_male_Full/textures/Cat_Color_Grey_m.tif using Guid(c851a2ffdef787d488f7b12f12b6825e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b2b1c6ee7cb9e30bef0d243da380bbb') in 0.019749 seconds 
+  Import took 0.026045 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
